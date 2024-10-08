@@ -1,4 +1,4 @@
-# Welcome to My Profile👋
+# Hello! I'm Héloïse!👋
 
 [English Version](#english-version) | [中文版](#中文版)
 

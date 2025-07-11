@@ -7,7 +7,7 @@
 ## English Version
 
 ### About Me
-I am currently a senior student majoring in Artificial Intelligence at Tamkang University. I am passionate about AI and cybersecurity, with particular interest in:
+I am passionate about AI and cybersecurity, with particular interest in:
 
 - 🎯 Cybersecurity
 - 🌈 Computer Vision & Image Processing
@@ -44,7 +44,7 @@ I am currently a senior student majoring in Artificial Intelligence at Tamkang U
 ## 中文版
 
 ### 關於我
-我目前是淡江大學人工智慧學系的四年級學生。在人工智慧及資訊安全方面十分感興趣，尤其是在以下領域：
+在人工智慧及資訊安全方面十分感興趣，尤其是在以下領域：
 
 - 🎯 資訊安全
 - 🌈 電腦視覺與影像處理

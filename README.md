@@ -25,7 +25,7 @@ I am passionate about AI and cybersecurity, with particular interest in:
 - **Genetic Algorithm - Mario Game**: Applied genetic algorithms to Mario, observing how fitness selection improves strategy efficiency.
 
 ### Skills & Tools
-- **Languages**: Python, C, HTML, JavaScript
+- **Languages**: Python, C, JavaScript
 - **AI/ML Frameworks**: PyTorch
 - **Web Development**: HTML/CSS
 - **Tools**: VSCode, Jupyter Notebook, GitHub, Colab
@@ -62,7 +62,7 @@ I am passionate about AI and cybersecurity, with particular interest in:
 - **基因演算法－瑪莉歐闖關**：透過基因演算法提高策略的效率。
 
 ### 技能與工具
-- **程式語言**：Python, C, HTML, JavaScript
+- **程式語言**：Python, C, JavaScript
 - **人工智慧/機器學習框架**：PyTorch
 - **網頁開發**：HTML/CSS
 - **工具**：VSCode, Jupyter Notebook, GitHub, Colab
